@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2153239453007561584}
   - component: {fileID: 5156958282382756684}
   m_Layer: 5
-  m_Name: Fx_LongStar_Yellow
+  m_Name: Fx_LongStar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -293,7 +293,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 2.5
+      scalar: 1.5
       minScalar: 0.7
       maxCurve:
         serializedVersion: 2
